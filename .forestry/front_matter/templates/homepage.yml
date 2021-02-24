@@ -157,5 +157,3 @@ fields:
     use_select: false
     source:
       type: datafiles
-pages:
-- hugo/content/_index.md

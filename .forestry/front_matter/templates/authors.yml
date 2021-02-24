@@ -69,5 +69,3 @@ fields:
     label: title
   config:
     labelField: fullName
-pages:
-- hugo/data/authors.yml
