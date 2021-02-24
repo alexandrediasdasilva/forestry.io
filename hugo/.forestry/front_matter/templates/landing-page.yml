@@ -17,5 +17,3 @@ fields:
   label: Layout
   hidden: true
   default: blocks
-pages:
-- hugo/content/blocks.md

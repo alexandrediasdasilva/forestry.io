@@ -89,5 +89,3 @@ fields:
 - type: boolean
   name: private
   label: private
-pages:
-- hugo/content/pricing.md

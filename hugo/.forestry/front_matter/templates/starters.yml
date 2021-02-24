@@ -46,5 +46,3 @@ fields:
   - type: text
     name: name
     label: Name
-pages:
-- hugo/data/starters.yml

@@ -124,8 +124,3 @@ fields:
     use_select: false
     source:
       type: datafiles
-pages:
-- hugo/content/showcase/_index.md
-- hugo/content/showcase/borisfx.md
-- hugo/content/showcase/developerecosystem.md
-- hugo/content/showcase/smallmultiples.md
